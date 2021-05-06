@@ -22,6 +22,7 @@
 [submodule "lib/printf"]
 	path = lib/printf
 	url = https://github.com/qmk/printf
-[submodule "keyboards/ergodox_ez/keymaps/myergo"]
+[submodule "keyboards/ergodox_ez/keymaps/molleweide"]
 	path = keyboards/ergodox_ez/keymaps/molleweide
-	url = https://github.com/molleweide/my_ergo_keymap
+	url = https://github.com/molleweide/qmk_keymap_ergodox_ez
+
