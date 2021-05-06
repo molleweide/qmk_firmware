@@ -23,5 +23,5 @@
 	path = lib/printf
 	url = https://github.com/qmk/printf
 [submodule "keyboards/ergodox_ez/keymaps/myergo"]
-	path = keyboards/ergodox_ez/keymaps/myergo
+	path = keyboards/ergodox_ez/keymaps/molleweide
 	url = https://github.com/molleweide/my_ergo_keymap
